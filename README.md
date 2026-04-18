@@ -20,6 +20,7 @@ Fraud detection is challenging because:
 - **Size:** ~280,000 transactions
 - **Features:** V1–V28 (PCA-transformed), Time, Amount
 - **Target:** Class (0 = Normal, 1 = Fraud)
+- **Dataset Link:** https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ---
 
