@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+
+# models (optional: keep or remove based on size)
+models/*.pkl
+
+# large data
+data/raw/creditcard.csv
